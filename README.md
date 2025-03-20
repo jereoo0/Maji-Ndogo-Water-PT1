@@ -1,5 +1,6 @@
 # Maji-Ndogo-Water-PT1
 This is the first of a two part report that provides valuable and comprehensive insight into the Maji Ndogo water restoration project which seeks to increase the population's access to basic water across its towns and provinces.
+
 # Maji Ndogo Water Survey Report
 
 ## Table of Contents
@@ -24,7 +25,6 @@ This report provides insights from the survey to help policymakers and stakehold
 ---
 
 ## Objective
-This report is the **first part of a two-part study** tracking the Maji Ndogo **Water Restoration Project**. It focuses on:  
 - Evaluating **current water access levels**  
 - Identifying **infrastructure needs and associated costs**  
 - Assessing the **impact of planned improvements**  
@@ -38,8 +38,8 @@ With these insights, the government can prioritize interventions and allocate re
 - **Data Source:** [ALX Learning Platform](https://alx-learn.explore.ai/student/dashboard)  
 - **Analysis Tools:** SQL & Power BI  
 - **Dataset Link:** [Maji Ndogo Data](https://docs.google.com/spreadsheets/d/1LBhcuzFUF1UOwOYPKb24vchiYKNLY60C8Exikg5bwU8/edit?usp=sharing)  
-- **Dashboard:** https://1drv.ms/u/c/0c31997b4c1e9f35/EYDKUusP831ErWD09qYBahsB6L14PtxGMVXMhNhAWxzsJw?e=nxP5gK   
-
+- **Dashboard:** <a href="https://1drv.ms/u/c/0c31997b4c1e9f35/EYDKUusP831ErWD09qYBahsB6L14PtxGMVXMhNhAWxzsJw?e=nxP5gK">Dashboard</a>  
+ 
 ---
 
 ## Overview of Dataset
@@ -93,8 +93,8 @@ Each table provides crucial insights into the **state of water access and requir
 
 ## Key Findings and Insights
 - **Primary Water Sources:**  
-  - Maji Ndogo’s population’s primary sources of water are Rivers, Wells and Taps, of which include, Tap in home (meaning a tap is found in a household and is functional), Tap in home 
-    broken (meaning a tap is found in a household but is not functional) and Shared tap (meaning a tap is shared by multiple households). 
+  - Maji Ndogo’s population’s primary sources of water are **Rivers, Wells and Taps**, of which include, *Tap in home* (a tap is found in a household and is functional), *Tap in 
+    home broken* (a tap is found in a household but is not functional) and *Shared tap* (a tap is shared by multiple households). 
   - **Shared taps** are the most common in both **rural and urban areas** across **all provinces**.  
 
 - **Water Access Statistics:**  
