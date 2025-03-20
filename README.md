@@ -38,7 +38,7 @@ With these insights, the government can prioritize interventions and allocate re
 - **Data Source:** [ALX Learning Platform](https://alx-learn.explore.ai/student/dashboard)  
 - **Analysis Tools:** SQL & Power BI  
 - **Dataset Link:** [Maji Ndogo Data](https://docs.google.com/spreadsheets/d/1LBhcuzFUF1UOwOYPKb24vchiYKNLY60C8Exikg5bwU8/edit?usp=sharing)  
-- **Dashboard:** `MD Report.pbix`  
+- **Dashboard:** https://1drv.ms/u/c/0c31997b4c1e9f35/EYDKUusP831ErWD09qYBahsB6L14PtxGMVXMhNhAWxzsJw?e=nxP5gK   
 
 ---
 
@@ -47,7 +47,7 @@ The dataset consists of **six key tables**:
 1. **Visits** – Tracks survey visit records  
 2. **Location** – Contains geographical data  
 3. **Water Sources** – Identifies available water sources  
-4. **Well Pollution** – Assesses water contamination levels  
+4. **Well Pollution** – Assesses water contamination levels of all wells in Maji Ndogo 
 5. **Infrastructure Cost** – Details costs of water-related improvements  
 6. **Project Progress** – Measures implementation status  
 
@@ -63,9 +63,9 @@ Each table provides crucial insights into the **state of water access and requir
 
 ## Key Questions
 1. **Water Access Levels:**  
-   - What percentage of Maji Ndogo’s population has access to basic water?  
+   - What is the percentage population in Maji Ndogo with and without access to basic water?  
 2. **Water Source Distribution:**  
-   - What types of water sources exist, and how many people rely on each type?  
+   - What types of water sources exist, and how many people rely on each type per province in both rural and urban communities?  
 3. **Infrastructure Needs & Costs:**  
    - What improvements are needed, and what are their estimated costs?  
 4. **Budget Allocation:**  
@@ -78,26 +78,29 @@ Each table provides crucial insights into the **state of water access and requir
 ## Dashboard
 - **National Survey Report**
 ![Screenshot 2025-03-19 105710](https://github.com/user-attachments/assets/94ee68f3-8de5-46b2-b5bf-3ea359cf9e92)
-- **Provencial Survey Report-Akatsi**
+- **Provincial Survey Report-Akatsi**
 ![Screenshot 2025-03-19 105740](https://github.com/user-attachments/assets/310c0067-9aac-45ec-baae-edeadd831a2d)
--**Provencial Survey Report-Amazi**
+-**Provincial Survey Report-Amazi**
 ![Screenshot 2025-03-19 105801](https://github.com/user-attachments/assets/9396c386-5105-4bf3-b500-f26326ccd6a7)
-- **Provencial Survey Report-Hawassa**
+- **Provincial Survey Report-Hawassa**
 ![Screenshot 2025-03-19 105820](https://github.com/user-attachments/assets/21521d78-4072-4348-ac2f-30b8edce735d)
-- **Provencial Survey Report-Kilimani**
+- **Provincial Survey Report-Kilimani**
 ![Screenshot 2025-03-19 105840](https://github.com/user-attachments/assets/b5fad947-1571-4c50-9650-d7d0a99f6244)
-- **Provencial Survey Report-Sokoto**
+- **Provincial Survey Report-Sokoto**
 ![Screenshot 2025-03-19 105902](https://github.com/user-attachments/assets/a1982995-0ae8-43b0-ba9a-dd05d32f8672)
 
 ---
 
 ## Key Findings and Insights
 - **Primary Water Sources:**  
-  - Most residents rely on **rivers, wells, and taps** (home taps, broken taps, and shared taps).  
-  - **Shared taps** are the most common in both **rural and urban areas**.  
+  - Maji Ndogo’s population’s primary sources of water are Rivers, Wells and Taps, of which include, Tap in home (meaning a tap is found in a household and is functional), Tap in home 
+    broken (meaning a tap is found in a household but is not functional) and Shared tap (meaning a tap is shared by multiple households). 
+  - **Shared taps** are the most common in both **rural and urban areas** across **all provinces**.  
 
 - **Water Access Statistics:**  
-  - **Only 34%** of the population has access to **basic water**.  
+  - **Only 34%** of the population has access to **basic water**.
+  - The 34% represents the population with **taps in their home** that are **functional**, households that **share a tap** with a **queue time less than 30 minutes** and **wells** 
+    marked as **clean** by officials.
   - **66% lack basic access**, relying on **unsafe sources** or facing **long queue times**.  
 
 - **Provincial Water Access Rates:**  
@@ -107,38 +110,35 @@ Each table provides crucial insights into the **state of water access and requir
 - **Budget Allocation:**  
   - **Total Budget:** $147 million  
   - **Highest Allocation:** Sokoto (**$40M**)  
-  - **Lowest Allocation:** Amanzi (**$13M**)  
+  - **Lowest Allocation:** Amanzi (**$13M**)
+  - **50% Increment** in budget allocation for rural areas
 
-- **Required Infrastructure Upgrades:**  
-  - **Most Expensive:** Installing new public taps ($43M)  
-  - **Least Expensive:** Repairing existing infrastructure ($2M)  
+- **Required Infrastructure Upgrades:**
+- Drill Wells
+- Install new public taps
+- Repair Infrastructure
+- Install UV filters
+- Install UV and RO filters
+- **Most Expensive:** Installing new public taps ($43M)  
+- **Least Expensive:** Repairing infrastructure ($2M)  
 
 - **Cost per Citizen:**  
   - Estimated at **$5 per person** to fully fund the project.  
 
 - **Improvements Per Province:**  
-  - Each province will see **~4,000 new improvements** to restore access.  
+  - Each province will see **~4,000 new improvements** to restore access to basic water.  
 
 ---
 
 ## Recommendations
 1. **Increase Transparency & Public Engagement**  
-   - Create a **public dashboard** to track project progress and spending.  
-   - Share **periodic updates** on achievements and challenges.  
-   - Improve **vendor accountability reporting** to ensure cost efficiency.  
+   - Show **real-time** project progress and spending. 
+   - Share **periodic updates** on achievements and challenges to government officials and other stakeholders.  
+   - Implementing **vendor accountability reporting** to ensure cost efficiency.  
 
 2. **Prioritize High-Need Provinces**  
    - Focus interventions on **Kilimani (28%) and Sokoto (31%)**, where water access is lowest.  
    - Allocate **additional funding to rural areas**, as they have the highest demand.  
-
-3. **Improve Cost Efficiency**  
-   - Reallocate **over-budget funds** to high-impact areas.  
-   - **Optimize vendor selection** by reducing reliance on high-cost suppliers.  
-   - Invest in **bulk material purchases** to reduce unit costs.  
-
-4. **Expand Alternative Water Sources**  
-   - Implement **rainwater harvesting systems** in high-rainfall regions.  
-   - Explore **solar-powered water filtration units** to lower long-term operational costs.  
 
 5. **Enhance Infrastructure Sustainability**  
    - Increase **preventive maintenance programs** to reduce long-term costs.  
