@@ -9,10 +9,10 @@ This is the first of a two part report that provides valuable and comprehensive 
 - [Overview of Dataset](#overview-of-dataset)
 - [Data Cleaning Log](#data-cleaning-log)
 - [Key Questions](#key-questions)
+- [Dashboard](Dashboard)
 - [Key Findings and Insights](#key-findings-and-insights)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
-- [Links and Resources](#links-and-resources)
 
 ---
 
@@ -71,7 +71,14 @@ Each table provides crucial insights into the **state of water access and requir
 4. **Budget Allocation:**  
    - How much funding is required per province and per town?  
 5. **National vs. Provincial Metrics:**  
-   - What do the key statistics look like at the **national** and **provincial levels**?  
+   - What do the key statistics look like at the **national** and **provincial levels**?
+
+---
+
+## Dashboard
+- **National Survey Report**
+![Screenshot 2025-03-19 105710](https://github.com/user-attachments/assets/94ee68f3-8de5-46b2-b5bf-3ea359cf9e92)
+
 
 ---
 
