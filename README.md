@@ -78,7 +78,16 @@ Each table provides crucial insights into the **state of water access and requir
 ## Dashboard
 - **National Survey Report**
 ![Screenshot 2025-03-19 105710](https://github.com/user-attachments/assets/94ee68f3-8de5-46b2-b5bf-3ea359cf9e92)
-
+- **Provencial Survey Report-Akatsi**
+![Screenshot 2025-03-19 105740](https://github.com/user-attachments/assets/310c0067-9aac-45ec-baae-edeadd831a2d)
+-**Provencial Survey Report-Amazi**
+![Screenshot 2025-03-19 105801](https://github.com/user-attachments/assets/9396c386-5105-4bf3-b500-f26326ccd6a7)
+- **Provencial Survey Report-Hawassa**
+![Screenshot 2025-03-19 105820](https://github.com/user-attachments/assets/21521d78-4072-4348-ac2f-30b8edce735d)
+- **Provencial Survey Report-Kilimani**
+![Screenshot 2025-03-19 105840](https://github.com/user-attachments/assets/b5fad947-1571-4c50-9650-d7d0a99f6244)
+- **Provencial Survey Report-Sokoto**
+![Screenshot 2025-03-19 105902](https://github.com/user-attachments/assets/a1982995-0ae8-43b0-ba9a-dd05d32f8672)
 
 ---
 
