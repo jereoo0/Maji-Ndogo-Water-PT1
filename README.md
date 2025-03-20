@@ -126,7 +126,7 @@ Each table provides crucial insights into the **state of water access and requir
   - Estimated at **$5 per person** to fully fund the project.  
 
 - **Improvements Per Province:**  
-  - Each province will see **~4,000 new improvements** to restore access to basic water.  
+  - Each province will see an  average of **4,000 new improvements** to restore access to basic water.  
 
 ---
 
