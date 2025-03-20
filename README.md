@@ -38,7 +38,7 @@ With these insights, the government can prioritize interventions and allocate re
 - **Data Source:** [ALX Learning Platform](https://alx-learn.explore.ai/student/dashboard)  
 - **Analysis Tools:** SQL & Power BI  
 - **Dataset Link:** [Maji Ndogo Data](https://docs.google.com/spreadsheets/d/1LBhcuzFUF1UOwOYPKb24vchiYKNLY60C8Exikg5bwU8/edit?usp=sharing)  
-- **Dashboard:** <a href="https://1drv.ms/u/c/0c31997b4c1e9f35/EYDKUusP831ErWD09qYBahsB6L14PtxGMVXMhNhAWxzsJw?e=nxP5gK">Dashboard</a>  
+- **Dashboard:** <a href="https://1drv.ms/u/c/0c31997b4c1e9f35/EYDKUusP831ErWD09qYBahsB6L14PtxGMVXMhNhAWxzsJw?e=nxP5gK">MDReport1</a>  
  
 ---
 
